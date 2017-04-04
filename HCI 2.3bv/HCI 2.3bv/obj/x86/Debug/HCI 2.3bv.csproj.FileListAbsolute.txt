@@ -1,0 +1,18 @@
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\bin\Debug\HCI 2.3bv.exe
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\bin\Debug\HCI 2.3bv.pdb
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\MainWindow.baml
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\MainWindow.g.cs
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\App.g.cs
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\HCI 2.3bv_MarkupCompile.cache
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\HCI 2.3bv.g.resources
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\HCI_2._3bv.Properties.Resources.resources
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\HCI 2.3bv.csproj.GenerateResource.Cache
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\HCI 2.3bv.exe
+c:\users\windows user\documents\visual studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\HCI 2.3bv.pdb
+C:\Users\Windows User\Documents\Visual Studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\Window1.baml
+C:\Users\Windows User\Documents\Visual Studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\Window1.g.cs
+C:\Users\Windows User\Documents\Visual Studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\Window2.baml
+C:\Users\Windows User\Documents\Visual Studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\Window3.baml
+C:\Users\Windows User\Documents\Visual Studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\Window2.g.cs
+C:\Users\Windows User\Documents\Visual Studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\Window3.g.cs
+C:\Users\Windows User\Documents\Visual Studio 2010\Projects\HCI 2.3bv\HCI 2.3bv\obj\x86\Debug\HCI 2.3bv_MarkupCompile.lref

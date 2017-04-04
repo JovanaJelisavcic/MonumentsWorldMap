@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI 2.3bv", "HCI 2.3bv\HCI 2.3bv.csproj", "{270CD9C1-A4F5-4DB0-8A11-6550F31B90BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270CD9C1-A4F5-4DB0-8A11-6550F31B90BB}.Debug|x86.ActiveCfg = Debug|x86
+		{270CD9C1-A4F5-4DB0-8A11-6550F31B90BB}.Debug|x86.Build.0 = Debug|x86
+		{270CD9C1-A4F5-4DB0-8A11-6550F31B90BB}.Release|x86.ActiveCfg = Release|x86
+		{270CD9C1-A4F5-4DB0-8A11-6550F31B90BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
