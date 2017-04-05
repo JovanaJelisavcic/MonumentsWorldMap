@@ -1,0 +1,32 @@
+﻿<Window x:Class="HCI_2._3bv.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mapa svetskih spomenika" Height="430" Width="750">
+    <Border Padding="5">
+        <Grid>
+            <Grid.ColumnDefinitions >
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions >
+            <!--SLika -->
+            <Image Margin="0 0 5 0" Grid.Column="0" Source="hci.jpg" />
+            <!--Dialog -->
+            <StackPanel Grid.Column="1" Orientation="Vertical">
+                <!--Novi spomenik -->
+                <TextBlock Margin ="0 0 0 15" HorizontalAlignment="Center" FontWeight="ExtraBold" Text="Dodaj novi spomenik: "></TextBlock>
+                <Button Click ="kreiraj_spomenik"  Margin ="15 0 15 15"  Content="Kreiraj" />
+                <!--Novi tip -->
+                <TextBlock Margin ="0 0 0 15" HorizontalAlignment="Center" FontWeight="ExtraBold" Text="Dodaj novi tip spomenika: "></TextBlock>
+                <Button Click="kreiraj_tip" Margin ="15 0 15 15"  Content="Kreiraj" />
+                <!--etiketa na spomenik -->
+                <TextBlock Margin ="0 0 0 5" HorizontalAlignment="Center" FontWeight="ExtraBold" Text="Dodaj tag spomeniku: "></TextBlock>
+                <ComboBox SelectedIndex="0">
+                    <ComboBoxItem>Biraj spomenik za tagovanje:</ComboBoxItem>
+                </ComboBox>
+                <Button Click="dodaj_etiketu" Margin ="15 5 15 15"  Content="Dodaj tag" />
+            
+            </StackPanel>
+
+        </Grid>
+    </Border>
+</Window>
